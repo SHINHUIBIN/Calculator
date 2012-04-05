@@ -35,4 +35,8 @@
 			<version>${org.slf4j.version}</version>
 		</dependency>
 	</dependencies>
+	
+	<reports>
+		<report>maven-emma-plugin</report>
+	</reports>
 </project>
